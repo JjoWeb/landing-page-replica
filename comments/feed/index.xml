@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for Jjo&#039;s Thiio Test	</title>
+	Comments for Landing Page Replica by Jjo	</title>
 	<atom:link href="https://jjoweb.github.io/landing-page-replica/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jjoweb.github.io/landing-page-replica</link>
 	<description></description>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
